@@ -150,15 +150,7 @@ Main flow: ads → screening → verification → scheduling → pilot → guide
 6. **LinkedIn** — groups: Indian Fintech, Digital Lending India
 7. **MyParticipants** — Indian platform, worked with Blinkit and financial products
 
-**Respondent incentives:**
-
-*Exchange rate as of 22.02.2026: 1 INR ≈ 0.85 RUB, 1 USD ≈ 76.74 RUB*
-
-| Format | Compensation |
-| :--- | :--- |
-| **IDI** (40–60 min.) | ~$15 (~₹1,300 / ~1,150 ₽) |
-| **Focus group** (60–90 min.) | ~$15 (~₹1,300 / ~1,150 ₽) |
-| **Chatbot surveying** | ~$7 (~₹600 / ~540 ₽) |
+**Respondent incentives:** monetary compensation is provided for all research formats.
 
 **Payment via UPI** (mandatory) — assistance from Dipanshu (has an Indian bank account).
 
