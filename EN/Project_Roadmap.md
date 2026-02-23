@@ -29,7 +29,7 @@ The methodological foundation of the project is described in the document **[Res
 | **Roman Purtov** | Project coordinator | Coordination, materials preparation, screener, report formatting, recruiting |
 | **Margarita Litvin** | Research lead | Methodology development, moderator guide, interview quality control, data analysis. Also participates in conducting interviews |
 | **Anastasia** | Lead interviewer / moderator | Conducts sessions in English (C1). Custdev experience: Algeria, Iran, Uzbekistan. Can handle 30–40 respondents |
-| **Artyom** | Targeting specialist | Ad setup for respondent recruiting (lead forms, creatives). Experience across various niches |
+| **Artur** | Targeting specialist | Ad setup for respondent recruiting (lead forms, creatives). Experience across various niches |
 | **Dipanshu (Deepanshu)** | Local expert | Indian national. Can conduct interviews in Hindi. Helps with UPI transfers and local recruiting |
 
 ### How the team is presented to the client
@@ -172,13 +172,13 @@ The research is grounded in scientifically validated frameworks. A detailed desc
 | 1.2 | Develop moderator guide | Margarita | 0.4 | Document with questions and scenario |
 | 1.3 | Develop chatbot survey (Telegram / WhatsApp) + embed visual stimuli | Roman + Margarita | 0.4 | Chatbot with survey |
 | 1.4 | Prepare stimulus materials (prototypes, GP screenshots) | Roman | 0.4 | Set of visuals for sessions |
-| 1.5 | Set up ad campaign (lead forms) | Artyom | 1.1 | Campaign in FB/IG |
+| 1.5 | Set up ad campaign (lead forms) | Artur | 1.1 | Campaign in FB/IG |
 | 1.6 | Prepare respondent communication templates | Roman | 1.1 | Messages for WhatsApp |
 | 1.7 | Adapt moderator guide to 8-block structure | Margarita | 1.2 | Guide structured by blocks (see §8 of Research Methodology) |
 | 1.8 | Compile competitor list for benchmarking | Roman | 0.4 | RupeeRedee, NIRA, CASHe, mPokket, KreditBee, Fibe, etc. |
 
 ```
-                 +-- 1.1 Screener [Roman] -----------------> 1.5 Ads [Artyom]
+                 +-- 1.1 Screener [Roman] -----------------> 1.5 Ads [Artur]
                  |                                              |
                  +-- 1.2 Moderator guide [Margo] -> 1.7 Adapt to 8 blocks
                  |                                              v
@@ -199,7 +199,7 @@ The research is grounded in scientifically validated frameworks. A detailed desc
 
 | # | Step | Responsible | Depends on | Result |
 | :---: | :--- | :--- | :---: | :--- |
-| 2.1 | Launch ads (FB/IG lead forms) | Artyom | 1.5 | Lead flow |
+| 2.1 | Launch ads (FB/IG lead forms) | Artur | 1.5 | Lead flow |
 | 2.2 | Lead processing and primary screening | Roman | 2.1 | Filtered candidates |
 | 2.3 | WhatsApp outreach (communities, groups) | Roman + Dipanshu | 1.6 | Additional leads |
 | 2.4 | Borrowing experience verification (3-step: app recognition → flow description → repayment experience) | Roman + Dipanshu | 2.2 | Confirmed respondents |
@@ -212,7 +212,7 @@ The research is grounded in scientifically validated frameworks. A detailed desc
  MAIN FLOW                                      IN PARALLEL
  =========                                      ===========
 
- 2.1 Ads [Artyom]                           2.3 WhatsApp outreach [Roman + Dipanshu]
+ 2.1 Ads [Artur]                           2.3 WhatsApp outreach [Roman + Dipanshu]
        |                                              |
        v                                              |
  2.2 Screening [Roman] <-- lead merging --------------+
@@ -382,7 +382,7 @@ Respondents may be talkative, accent may complicate comprehension — a tool wit
 
 ### Screener (recruiting funnel)
 
-3-step funnel: FB/IG lead forms (primary filter, set up by Artyom) → chatbot screener (experience validation) → verification call.
+3-step funnel: FB/IG lead forms (primary filter, set up by Artur) → chatbot screener (experience validation) → verification call.
 
 ### Organization and storage
 
@@ -406,7 +406,7 @@ Respondents may be talkative, accent may complicate comprehension — a tool wit
 
 | # | Channel | What to do | Feasibility |
 | :---: | :--- | :--- | :--- |
-| **1** | **Facebook / Instagram ads (lead forms)** | Targeting: India, Tier-1/2 cities, age, interest in NBFC apps. Creatives in English + Hindi. Set up by Artyom | **High** |
+| **1** | **Facebook / Instagram ads (lead forms)** | Targeting: India, Tier-1/2 cities, age, interest in NBFC apps. Creatives in English + Hindi. Set up by Artur | **High** |
 | **2** | **WhatsApp outreach** | Through community groups, mailings. Primary communication channel for this demographic | **High** |
 | **3** | **Dipanshu (local contact)** | Direct recruiting through his connections in India | **Medium–high** |
 | **4** | **Team acquaintances** | Roman's and Margarita's contacts associated with India / IT | **Medium** |
@@ -497,7 +497,7 @@ In parallel with in-depth interviews, chatbot surveying is launched (Telegram / 
 | 2 | Proposal presentation format: call? document? Who do we invite from the client side? | Roman + Margarita | &#x2B1C; |
 | 3 | Do we need to review the TA description document (link from the brief) before starting? | Roman / Margarita | &#x2B1C; |
 | 4 | Who will help with UPI transfers to respondents? Dipanshu? | Roman | &#x2B1C; |
-| 5 | Screening questions composition for lead forms — coordinate with Artyom | Roman | &#x2B1C; |
+| 5 | Screening questions composition for lead forms — coordinate with Artur | Roman | &#x2B1C; |
 | 6 | Chatbot surveying platform choice (Telegram, WhatsApp, builder?) | Roman + Margarita | &#x2B1C; |
 | 7 | Chatbot languages: English + Hindi? + regional languages? | Roman + Margarita | &#x2B1C; |
 
@@ -507,7 +507,7 @@ In parallel with in-depth interviews, chatbot surveying is launched (Telegram / 
 
 1. **Roman + Margarita:** Decide on methodology option (B or C)
 2. **Roman + Margarita:** Decide on the chatbot platform and begin development
-3. **Artyom:** Start working on the ad campaign — lead forms with a set of screening questions
+3. **Artur:** Start working on the ad campaign — lead forms with a set of screening questions
 4. **Roman:** Start drafting the screener + compile competitor list for benchmarking
 5. **Margarita:** Develop the moderator guide with adaptation to the 8-block structure
 6. **Roman + Margarita:** Compile the proposal and prepare the presentation
