@@ -8,13 +8,15 @@
 
 An international fintech company is entering India with a lending app **"Helpa"**. The brand needs to be tested on real Indian borrowers. The result is a report with a verdict: **launch / refine / abandon**.
 
+The methodological foundation of the project is described in the document **[Research Methodology](Research_Methodology.md)** — mixed-methods design, cross-cultural frameworks, quality criteria.
+
 ### What exactly we are testing
 
-1. **Name perception** — associations, trust, memorability
+1. **Name perception** — associations, trust, memorability, phonetics (frameworks: Keller CBBE, Aaker 5Bs, Brand Linguistics)
 2. **App prototype evaluation** — usability, clarity, sense of security
 3. **Google Play page evaluation** — what attracts, what repels, what motivates installation
 4. **Barriers and fears** — related to digital lending
-5. **Competitor comparison** — KreditBee, MoneyTap, CASHe, etc.
+5. **Competitor comparison** — RupeeRedee, NIRA, CASHe, mPokket, KreditBee, etc.
 
 ---
 
@@ -49,60 +51,46 @@ An international fintech company is entering India with a lending app **"Helpa"*
 
 ## 3. Methodology
 
-The client mentions focus groups in the brief as the preferred format. We propose **three options** + **parallel online surveying** for a quantitative base.
+The client mentions focus groups in the brief as the preferred format. We propose **two options** + **parallel chatbot surveying** for a quantitative base.
 
 > **⚡ The client is choosing between Options B and C.** An intermediate option is possible.
 
-### Why 50 respondents is the minimum
+### Why 70 respondents is the minimum
 
-The brief asks for 15–24 people, but statistically significant conclusions cannot be drawn from a small sample. 50 respondents is the optimal minimum threshold. Given India's population density and the prevalence of digital lending, recruiting this number is realistic (confirmed by Dipanshu).
+The brief asks for 15–24 people, but statistically significant conclusions cannot be drawn from a small sample. 70 respondents is the optimal minimum threshold. At N = 50–100, large and medium effects are confidently detected (non-parametric tests). Given India's population density and the prevalence of digital lending, recruiting this number is realistic (confirmed by Dipanshu).
 
 ### Research structure: qual + quant
 
 | Component | Format | Quantity | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Qualitative part** | IDI + focus groups | 18–24 resp. | Depth: trust, fears, associations, barriers |
-| **Quantitative part** | Online surveying | 30–50 resp. | Statistics: scaling insights, percentage breakdowns |
-| **Total** | | **~50+ resp.** | Complete picture |
+| **Qualitative part** | IDI + focus groups | 20–32 resp. | Depth: trust, fears, associations, barriers |
+| **Quantitative part** | Chatbot surveying | 50–100 resp. | Statistics: scaling insights, percentage breakdowns |
+| **Total** | | **~70–130 resp.** | Complete picture |
 
-Surveying is launched in parallel with interviews. Conversion will not be very high, but responses do come in — confirmed by satisfaction monitoring experience.
+Chatbot surveying (Telegram / WhatsApp) is launched in parallel with interviews. The chatbot ensures a high response rate (familiar environment for the target audience) and allows embedding visual stimuli directly into the survey flow.
 
-### Option A: Focus groups + surveying
+### Option B: Mix — 1 focus group + IDI + chatbot surveying (recommended)
 
-- 3–4 online focus groups of 5–6 participants (18–24 people) + online survey (30–50 people)
-- Focus group duration: 90–120 minutes each
-- Via Zoom / Google Meet
-
-**Pros:** Matches client preference. Group dynamics — respondents build on each other's ideas.
-
-**Cons and risks:**
-- Funnel is 2–2.5x wider. For 24 focus group participants, need to recruit 40–50 (no-show rate ~20–30%).
-- Harder to organize: gathering 5–6 people at the same time + time zones.
-- Sensitive topics are disclosed less openly in a group.
-
-### Option B: Mix — 1 focus group + IDI + surveying (recommended)
-
-- **1 focus group** (5–6 people) — general associations, group dynamics
-- **15–20 IDI** (in-depth interviews 1-on-1) — trust, fears, negative experience, conversion barriers
-- **Online survey** (30–50 people) — quantitative base
-- IDI duration: **30–45 minutes**
-- Online, via Zoom / Google Meet
+- **1 focus group** (5–6 people, 60–90 min.) — general associations, group dynamics
+- **15–20 IDI** (in-depth interviews 1-on-1, **40–60 min.**) — trust, fears, negative experience, conversion barriers
+- **Chatbot surveying** (50–100 people) — quantitative base
+- Total: **~70–130 respondents**
+- Online, via Zoom / Google Meet (IDI and FG); Telegram / WhatsApp (chatbot)
 - Anastasia can handle the full volume (can manage 30–40 respondents)
 
 **Why we recommend Option B:**
 - We cover both formats from the brief + give the client quantitative data (bonus beyond expectations)
-- Focus group — "broad" picture, IDI — depth, survey — statistics
+- Focus group — "broad" picture, IDI — depth, chatbot — statistics
 - Recruiting funnel is more manageable
 - The client themselves indicated that IDI are especially useful for trust and fear topics
 
 ### Option C: Full cycle
 
-- **2 focus groups** — separate for Tier-1 and Tier-2 (5–6 participants each)
-- **15–20 IDI** (in-depth interviews 1-on-1)
-- **Extended online surveying** (70–100 respondents)
+- **2 focus groups** — separate for Tier-1 and Tier-2 (5–6 participants each, 60–90 min.)
+- **15–20 IDI** (in-depth interviews 1-on-1, **40–60 min.**)
+- **Extended chatbot surveying** (70–100 respondents)
 - Total: **~90–130 respondents**
-- IDI duration: **30–45 minutes**, focus groups: 90–120 minutes
-- Online, via Zoom / Google Meet
+- Online, via Zoom / Google Meet (IDI and FG); Telegram / WhatsApp (chatbot)
 
 **What is additionally included (beyond Option B):**
 - Comparative analysis of brand perception by segments (Tier-1 vs Tier-2)
@@ -110,12 +98,12 @@ Surveying is launched in parallel with interviews. Conversion will not be very h
 
 ### Recruiting funnel by option
 
-| | Option A | Option B | Option C |
-| :--- | :--- | :--- | :--- |
-| Qual. part: in sessions | 18–24 | 21–26 (1 FG + 15–20 IDI) | 25–32 (2 FG + 15–20 IDI) |
-| Qual. part: to recruit | **40–50** | **30–35** | **35–45** |
-| Surveying | 30–50 | 30–50 | 70–100 |
-| **Total reach** | **~50–70** | **~50–75** | **~90–130** |
+| | Option B | Option C |
+| :--- | :--- | :--- |
+| Qual. part: in sessions | 21–26 (1 FG + 15–20 IDI) | 25–32 (2 FG + 15–20 IDI) |
+| Qual. part: to recruit | **30–35** | **35–45** |
+| Chatbot surveying | 50–100 | 70–100 |
+| **Total reach** | **~70–130** | **~90–130** |
 
 Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: he himself has taken loans, and in his circles it is a widespread phenomenon. Digital lending in India is part of everyday life for our target audience.
 
@@ -124,6 +112,17 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 - By income level (lower / middle segment — to be clarified per TA from the brief)
 - By presence of negative experience with lending apps
 - By city tier (Tier-1: Delhi, Mumbai, Bangalore vs Tier-2: Jaipur, Lucknow, Pune)
+
+### Methodological foundations
+
+The research is grounded in scientifically validated frameworks. A detailed description is available in the document **[Research Methodology](Research_Methodology.md)**.
+
+| Level | Frameworks | Application in the project |
+| :--- | :--- | :--- |
+| General approach | Mixed-methods (Creswell) | Convergent parallel design, data triangulation |
+| Culture | Hofstede, GLOBE, Erin Meyer | Moderator guide design, accounting for social desirability and debt stigma |
+| Brand | Keller CBBE, Aaker 5Bs, Brand Linguistics | Name testing structure, benchmarking vs competitors |
+| Data quality | Lincoln & Guba, Braun & Clarke | Trustworthiness criteria, thematic analysis (6 phases) |
 
 ---
 
@@ -136,14 +135,14 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 ```
   PHASE 0        PHASE 1        PHASE 2          PHASE 3          PHASE 4       PHASE 5
  Pre-start     Preparation    Recruiting       Fieldwork         Analysis      Delivery
-              Days 1–5       Weeks 1–2        Weeks 3–4         Week 5        Week 6
+              Days 1-5       Weeks 1-2        Weeks 3-4         Week 5        Week 6
      |             |              |               |               |             |
      v             v              v               v               v             v
  +--------+  +----------+  +-----------+  +-------------+  +----------+  +---------+
- |Approval|  |Screener, |  |Ads,       |  |IDI x 15-20  |  |Coding,   |  |Final    |
- |  +     |->|guide,    |->|screening, |->|FG x 1-2     |->|report,   |->|report + |
- |proposal|  |survey,   |  |pilot      |  |+ surveying  |  |verdict   |  |handoff  |
- |        |  |stimuli   |  |(1-2 int.) |  |             |  |          |  |to client|
+ |Approval|  |Screener, |  |Ads,       |  |IDI x 15-20  |  |Thematic  |  |Final    |
+ |  +     |->|guide,    |->|screening, |->|FG x 1-2     |->|analysis, |->|report + |
+ |proposal|  |chatbot,  |  |validation,|  |+ chatbot    |  |benchmark,|  |handoff  |
+ |        |  |stimuli   |  |pilot      |  |surveying    |  |verdict   |  |to client|
  +--------+  +----------+  +-----------+  +-------------+  +----------+  +---------+
 ```
 
@@ -171,24 +170,28 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 | :---: | :--- | :--- | :---: | :--- |
 | 1.1 | Develop screener (screening questionnaire) | Roman | 0.4 | Google Form / lead form |
 | 1.2 | Develop moderator guide | Margarita | 0.4 | Document with questions and scenario |
-| 1.3 | Develop online survey (quant. part) | Roman + Margarita | 0.4 | Google Forms / Typeform |
+| 1.3 | Develop chatbot survey (Telegram / WhatsApp) + embed visual stimuli | Roman + Margarita | 0.4 | Chatbot with survey |
 | 1.4 | Prepare stimulus materials (prototypes, GP screenshots) | Roman | 0.4 | Set of visuals for sessions |
 | 1.5 | Set up ad campaign (lead forms) | Artyom | 1.1 | Campaign in FB/IG |
 | 1.6 | Prepare respondent communication templates | Roman | 1.1 | Messages for WhatsApp |
+| 1.7 | Adapt moderator guide to 8-block structure | Margarita | 1.2 | Guide structured by blocks (see §8 of Research Methodology) |
+| 1.8 | Compile competitor list for benchmarking | Roman | 0.4 | RupeeRedee, NIRA, CASHe, mPokket, KreditBee, Fibe, etc. |
 
 ```
                  +-- 1.1 Screener [Roman] -----------------> 1.5 Ads [Artyom]
                  |                                              |
-                 +-- 1.2 Moderator guide [Margo]                |
+                 +-- 1.2 Moderator guide [Margo] -> 1.7 Adapt to 8 blocks
                  |                                              v
-0.4 Approval -->-+-- 1.3 Online survey [Roman + Margo]    Ready for Phase 2
+0.4 Approval -->-+-- 1.3 Chatbot survey [Roman + Margo]   Ready for Phase 2
                  |
                  +-- 1.4 Stimuli [Roman]
                  |
                  +-- 1.6 Communication templates [Roman] --> (awaits 1.1)
+                 |
+                 +-- 1.8 Competitor list [Roman]
 ```
 
-> **Parallel processes:** steps 1.1–1.4 run in parallel. Step 1.5 (ads) depends on 1.1 (screener ready). Step 1.6 also depends on 1.1.
+> **Parallel processes:** steps 1.1–1.4, 1.8 run in parallel. Step 1.5 (ads) depends on 1.1 (screener ready). Step 1.7 depends on 1.2 (guide ready).
 
 ---
 
@@ -199,8 +202,8 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 | 2.1 | Launch ads (FB/IG lead forms) | Artyom | 1.5 | Lead flow |
 | 2.2 | Lead processing and primary screening | Roman | 2.1 | Filtered candidates |
 | 2.3 | WhatsApp outreach (communities, groups) | Roman + Dipanshu | 1.6 | Additional leads |
-| 2.4 | Borrowing experience verification | Roman + Dipanshu | 2.2 | Confirmed respondents |
-| 2.5 | Launch online surveying | Roman | 1.3 | Link via WhatsApp / social media |
+| 2.4 | Borrowing experience verification (3-step: app recognition → flow description → repayment experience) | Roman + Dipanshu | 2.2 | Confirmed respondents |
+| 2.5 | Launch chatbot surveying | Roman | 1.3 | Chatbot link in WhatsApp / Telegram |
 | 2.6 | Schedule interview appointments | Roman | 2.4 | Session calendar |
 | 2.7 | Pilot interviews (1–2 pcs.) | Anastasia + Margarita | 1.2, 2.4 | Guide and skills check |
 | 2.8 | Guide adjustment based on pilot results | Margarita | 2.7 | Final guide |
@@ -214,8 +217,8 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
        v                                              |
  2.2 Screening [Roman] <-- lead merging --------------+
        |
-       v                                    2.5 Online survey [Roman]
- 2.4 Verification [Roman + Dipanshu]            (runs in parallel throughout the phase)
+       v                                    2.5 Chatbot survey [Roman]
+ 2.4 Verification (3 steps) [Roman + Dipanshu]  (runs in parallel throughout the phase)
        |
        v
  2.6 Schedule [Roman]
@@ -232,9 +235,9 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 
 | # | Step | Responsible | Depends on | Result |
 | :---: | :--- | :--- | :---: | :--- |
-| 3.1 | Conduct IDI (15–20 interviews) | Anastasia (+ Dipanshu for Hindi) | 2.8 | Video recordings + transcripts |
-| 3.2 | Conduct focus group (1 or 2 — per option) | Anastasia + Margarita | 2.6, 2.8 | Video recordings + transcripts |
-| 3.3 | Online surveying monitoring | Roman | 2.5 | Collecting 30–50 (or 70–100) responses |
+| 3.1 | Conduct IDI (15–20 interviews, **40–60 min.**). Moderator uses projective techniques (Meyer), actively probes negative experience | Anastasia (+ Dipanshu for Hindi) | 2.8 | Video recordings + transcripts |
+| 3.2 | Conduct focus group (1 or 2 — per option, 60–90 min.) | Anastasia + Margarita | 2.6, 2.8 | Video recordings + transcripts |
+| 3.3 | Chatbot surveying monitoring | Roman | 2.5 | Collecting 50–100 responses |
 | 3.4 | Transcription and preliminary processing | Roman (Otter.ai) | 3.1, 3.2 | Texts + AI summaries |
 | 3.5 | Follow-up calls / additional respondent recruiting (if needed) | Roman + Dipanshu | 3.1 | Quota completion |
 
@@ -245,7 +248,7 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
                  |                                             |
                  +-- 3.2 FG x 1-2 [Anastasia + Margo] --------+
 
-       3.3 Survey monitoring [Roman]  <-- runs throughout the phase
+       3.3 Chatbot monitoring [Roman]  <-- runs throughout the phase
        3.5 Additional respondent recruiting [Roman + Dipanshu] <-- as needed
 ```
 
@@ -257,29 +260,33 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 
 | # | Step | Responsible | Depends on | Result |
 | :---: | :--- | :--- | :---: | :--- |
-| 4.1 | Data coding (qualitative part) | Margarita | 3.4 | Thematic matrix |
-| 4.2 | Survey processing (quantitative part) | Roman | 3.3 | Statistical breakdowns |
-| 4.3 | Build brand perception map | Margarita | 4.1 | Associations visualization |
-| 4.4 | Verbatim selection (key quotes) | Margarita | 4.1 | Quotes by theme |
-| 4.5 | Final verdict formulation | Margarita + Roman | 4.1, 4.2 | Go / refine / abandon |
-| 4.6 | Report writing | Roman + Margarita | 4.1–4.5 | Analytical report |
-| 4.7 | Presentation preparation *(Option C only)* | Margarita + Roman | 4.6 | Slides for the client |
+| 4.1 | Thematic analysis per Braun & Clarke (6 phases), coding along Keller CBBE axes | Margarita | 3.4 | Thematic matrix |
+| 4.2 | Chatbot data processing: semantic differential, Likert scales, non-parametric tests | Roman | 3.3 | Statistical breakdowns |
+| 4.3 | Brand perception map: trust × friendliness × legitimacy | Margarita | 4.1 | Visualization |
+| 4.4 | Verbatim selection (key quotes with English translation) | Margarita | 4.1 | Quotes by theme with context (city, income, gender, method) |
+| 4.5 | Benchmarking vs competitors (Aaker 5Bs model) | Margarita + Roman | 4.1, 4.2 | Comparative analysis |
+| 4.6 | Final verdict formulation | Margarita + Roman | 4.1–4.5 | Go / refine / abandon |
+| 4.7 | Report writing | Roman + Margarita | 4.1–4.6 | Analytical report |
+| 4.8 | Presentation preparation *(Option C only)* | Margarita + Roman | 4.7 | Slides for the client |
 
 ```
-3.4 Transcripts --> 4.1 Coding [Margo] --> 4.3 Perception map
-                          |                             |
-                          +--> 4.4 Verbatims             |
-                          |                             |
-3.3 Surveys ---------> 4.2 Processing [Roman]           |
-                          |                             |
-                          +--------> 4.5 Verdict <------+
+3.4 Transcripts --> 4.1 Thematic analysis [Margo] --> 4.3 Perception map
+                          |                                     |
+                          +--> 4.4 Verbatims                    |
+                          |                                     |
+3.3 Chatbot ---------> 4.2 Data processing [Roman]             |
+                          |                                     |
+                          +--------> 4.5 Benchmark vs competitors <--+
                                     [Margo + Roman]
                                           |
                                           v
-                                    4.6 Report [Roman + Margo]
+                                    4.6 Verdict [Margo + Roman]
+                                          |
+                                          v
+                                    4.7 Report [Roman + Margo]
                                           |
                                           v (Option C only)
-                                    4.7 Presentation
+                                    4.8 Presentation
 ```
 
 ---
@@ -288,13 +295,13 @@ Recruiting borrowers in India is not a problem. Dipanshu (Deepanshu) confirmed: 
 
 | # | Step | Responsible | Depends on | Result |
 | :---: | :--- | :--- | :---: | :--- |
-| 5.1 | Final report proofreading | Margarita + Roman | 4.6 | Final report |
+| 5.1 | Final report proofreading | Margarita + Roman | 4.7 | Final report |
 | 5.2 | Prepare video recordings for handoff | Roman | 3.1, 3.2 | Recordings archive |
-| 5.3 | Hand over all materials to the client | Roman | 5.1, 5.2 | Full deliverables package |
-| 5.4 | Results presentation *(Option C only)* | Margarita + Roman | 4.7, 5.3 | Meeting with the client's team |
+| 5.3 | Hand over all materials to the client (report, video, verbatim quotes with translation, optionally — perception map, phonetic adaptations) | Roman | 5.1, 5.2 | Full deliverables package |
+| 5.4 | Results presentation *(Option C only)* | Margarita + Roman | 4.8, 5.3 | Meeting with the client's team |
 
 ```
-4.6 Report --> 5.1 Proofreading --> 5.3 Handoff to client --> DONE
+4.7 Report --> 5.1 Proofreading --> 5.3 Handoff to client --> DONE
                                        ^
 5.2 Video preparation ----------------+
                                        |
@@ -324,7 +331,7 @@ IDI                                 %%%%%%%%%%%%%%%%%%%%%%
 FG                                     %%%%
                                         ^ 1-2 focus groups
 
-Survey         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Chatbot        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                 ^ runs in parallel throughout the field period
 
 Analysis                                              %%%%%%%%%%%%%%
@@ -346,7 +353,7 @@ Delivery                                                          %%%%%%
 | :--- | :--- |
 | **Google Meet** (built-in recording) | Primary option — video + audio recording. Files in Google Drive. No time limit |
 | **OBS Studio** | Backup screen recording in case Meet fails |
-| **Zoom** (free plan) | Alternative; for 30–45 min. IDI the free plan may suffice |
+| **Zoom** (free plan) | Alternative; for IDI 40–60 min. the free plan may not suffice — account for the limit |
 
 **Recommendation:** Google Meet as primary + OBS as backup.
 
@@ -363,15 +370,19 @@ Respondents may be talkative, accent may complicate comprehension — a tool wit
 
 **Recommendation:** Otter.ai Pro — optimal feature balance. If maximum accuracy with accents is needed — Trint.
 
-### Screener (lead form)
+### Chatbot for surveying
 
 | Tool | Comment |
 | :--- | :--- |
-| **Google Forms** | Simple, sufficient for screening |
-| **Typeform** | More attractive, better UX, skip logic |
-| **Facebook/Instagram lead forms** | Respondent fills out right in the social network — minimal friction. Set up by Artyom |
+| **Telegram Bot** | Free API, easy integration, supports visual stimuli (photos, carousels) |
+| **WhatsApp Business API** | Primary messenger for the target audience in India, high response rate |
+| **Typebot / SurveySparrow** | Platforms for building bots with logical branching and skip logic |
 
-**Recommendation:** Facebook/Instagram lead forms (primary filter, set up by Artyom) -> Google Forms for extended screener (secondary verification).
+**Recommendation:** Telegram or WhatsApp (depends on the platform used by the target audience) + a builder for survey logic.
+
+### Screener (recruiting funnel)
+
+3-step funnel: FB/IG lead forms (primary filter, set up by Artyom) → chatbot screener (experience validation) → verification call.
 
 ### Organization and storage
 
@@ -407,10 +418,10 @@ Respondents may be talkative, accent may complicate comprehension — a tool wit
 
 | Format | Needed in sessions | Recruit (with buffer) |
 | :--- | :--- | :--- |
-| IDI (20 interviews) | 20 people | 25–30 people |
-| 1 focus group (6 people) | 6 people | 12 people |
-| Online surveying | 30–50 people | 80–100 people (conversion ~40–60%) |
-| **Total** | **~50–75 people** | **~120+ leads** |
+| IDI (15–20 interviews, 40–60 min.) | 15–20 people | 25–30 people |
+| 1 focus group (5–6 people, 60–90 min.) | 5–6 people | 12 people |
+| Chatbot surveying | 50–100 people | 100–150 people (conversion ~50–70%) |
+| **Total** | **~70–130 people** | **~140+ leads** |
 
 ### Respondent incentives
 
@@ -418,51 +429,54 @@ Respondents may be talkative, accent may complicate comprehension — a tool wit
 
 | Format | Compensation |
 | :--- | :--- |
-| **IDI** (30–45 min.) | ₹800 (~$9 / ~680 RUB) |
-| **Focus group** (90–120 min.) | ₹1,000 (~$11 / ~850 RUB) |
-| **Surveying** | ₹100–200 (~$1–2 / ~85–170 RUB) or unpaid |
+| **IDI** (40–60 min.) | ₹800 (~$9 / ~680 RUB) |
+| **Focus group** (60–90 min.) | ₹1,000 (~$11 / ~850 RUB) |
+| **Chatbot surveying** | ₹100–200 (~$1–2 / ~85–170 RUB) or unpaid |
 
 **Payment method: UPI (mandatory!)** — not gift cards. UPI is the primary payment infrastructure for this audience. For UPI payments — assistance from Dipanshu (has an Indian bank account).
 
 ### Borrowing experience verification
 
-The brief strictly requires confirmed experience. Just a "checkbox in the questionnaire" is not enough.
+The brief strictly requires confirmed experience. Just a "checkbox in the questionnaire" is not enough. A **3-step validation** is used (details in [Research Methodology](Research_Methodology.md), §2.5):
 
-1. **Screener with traps:** include 2–3 non-existent lending app names
-2. **Specific questions:** "What amount did you borrow? What was the term? What was the interest rate?"
-3. **Screenshots:** ask to show the lending app during the screening call
-4. **Double screening:** short phone/video call before the main interview
+1. **App recognition:** show screenshots / icons of real lending apps (+ 2–3 non-existent ones as traps)
+2. **Flow description:** respondent describes the loan application process (step-by-step sequence)
+3. **Repayment experience:** questions about repayment experience — amount, term, repayment method
 
-### Screener (screening questionnaire) — needed ASAP
+Respondents from generic panels without experience verification **are not admitted**.
+
+### Screener (screening questionnaire)
 
 What it should include:
 
 1. Demographics: age, city, income
-2. Experience confirmation: "Which lending apps have you used? Name them. What amount did you borrow? When was the last time?"
+2. Experience confirmation: 3-step validation (app recognition, flow description, repayment experience)
 3. Trap: include 2–3 non-existent app names in the list
 4. Exclusion: "Do you work in the financial / technology sector?"
-5. Willingness for a 30–45 minute video call
+5. Willingness for a 40–60 minute video call
 
-### Online survey (quantitative part) — separate document
+### Chatbot surveying (quantitative part)
 
-In parallel with in-depth interviews, online surveying is launched:
+In parallel with in-depth interviews, chatbot surveying is launched (Telegram / WhatsApp):
 
-- Detailed questionnaire with questions from section 5 of the brief (brand, trust, associations)
-- Respondents fill it out independently (link via WhatsApp / social media)
-- Conversion will be low, but responses do come in (confirmed by Margarita's experience)
-- Goal: collect 30–50 responses for a quantitative base
-- Tool: Google Forms / Typeform
+- Structured survey with visual stimuli (logo, UI screenshots, Google Play mockup) embedded directly into the flow
+- Step-by-step progression through blocks: brand → UI → Google Play → summary
+- Logical branching and skip logic
+- Semantic differential scales (trust, friendliness, legitimacy), Likert scales, association ranking
+- Before access to the survey, the chatbot conducts screening (demographics + indirect experience validation)
+- Goal: collect 50–100 responses for a quantitative base
 
 ---
 
 ## 7. Deliverables — What the Client Will Receive
 
-1. **Analytical report** — findings and recommendations: brand perception, barriers, growth points, competitor comparison
-2. **Brand perception map** — visualization of audience associations and emotional reactions
-3. **Verbatims** — key respondent quotes linked to themes
-4. **Quantitative breakdowns** — from surveying results
+1. **Analytical report** — findings and recommendations: brand perception, barriers, growth points, benchmarking vs competitors (Aaker 5Bs model)
+2. **Formalized recommendation** — use as is / adapt / reject — with justification and specific steps for each scenario
+3. **Verbatim quotes** — key respondent quotes with English translation and context (city, income, gender, method)
+4. **Quantitative breakdowns** — from chatbot surveying results (semantic differential, Likert scales, non-parametric tests)
 5. **Video recordings** — of all interviews and focus groups
-6. **Final verdict** — with justification: launch, refine, or abandon — and specific recommendations for each scenario
+6. **Brand perception map** *(optional)* — visualization: trust × friendliness × legitimacy
+7. **Phonetic adaptation options for the name** *(optional)* — only if spontaneously suggested by respondents
 
 ---
 
@@ -480,18 +494,20 @@ In parallel with in-depth interviews, online surveying is launched:
 | # | Question | Addressed to | Status |
 | :---: | :--- | :--- | :---: |
 | 1 | Dipanshu (Deepanshu) — exact scope of involvement, availability, terms? | Roman / Margarita | &#x2B1C; |
-| 2 | Which methodology option do we include in the proposal — all three or only B and C? | Roman + Margarita | &#x2B1C; |
-| 3 | Proposal presentation format: call? document? Who do we invite from the client side? | Roman + Margarita | &#x2B1C; |
-| 4 | Do we need to review the TA description document (link from the brief) before starting? | Roman / Margarita | &#x2B1C; |
-| 5 | Who will help with UPI transfers to respondents? Dipanshu? | Roman | &#x2B1C; |
-| 6 | Screening questions composition for lead forms — coordinate with Artyom | Roman | &#x2B1C; |
-| 7 | Online survey content (quant. part) | Roman + Margarita | &#x2B1C; |
+| 2 | Proposal presentation format: call? document? Who do we invite from the client side? | Roman + Margarita | &#x2B1C; |
+| 3 | Do we need to review the TA description document (link from the brief) before starting? | Roman / Margarita | &#x2B1C; |
+| 4 | Who will help with UPI transfers to respondents? Dipanshu? | Roman | &#x2B1C; |
+| 5 | Screening questions composition for lead forms — coordinate with Artyom | Roman | &#x2B1C; |
+| 6 | Chatbot surveying platform choice (Telegram, WhatsApp, builder?) | Roman + Margarita | &#x2B1C; |
+| 7 | Chatbot languages: English + Hindi? + regional languages? | Roman + Margarita | &#x2B1C; |
 
 ---
 
 ## 10. Immediate Action Items
 
-1. **Roman + Margarita:** Decide on methodology option (B, C, or both)
-2. **Artyom:** Start working on the ad campaign — lead forms with a set of screening questions
-3. **Roman:** Start drafting the screener + moderator guide + online survey
-4. **Roman + Margarita:** Compile the proposal and prepare the presentation
+1. **Roman + Margarita:** Decide on methodology option (B or C)
+2. **Roman + Margarita:** Decide on the chatbot platform and begin development
+3. **Artyom:** Start working on the ad campaign — lead forms with a set of screening questions
+4. **Roman:** Start drafting the screener + compile competitor list for benchmarking
+5. **Margarita:** Develop the moderator guide with adaptation to the 8-block structure
+6. **Roman + Margarita:** Compile the proposal and prepare the presentation
