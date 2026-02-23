@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-**Cyberbird** (an international fintech company) is preparing to enter the Indian digital lending market under the **Helpa** brand. Before launch, it is necessary to validate brand perception among real target borrowers in India.
+An international fintech company is preparing to enter the Indian digital lending market under the **Helpa** brand. Before launch, it is necessary to validate brand perception among real target borrowers in India.
 
 **Key research objectives:**
 - Go / no-go decision on using the brand in India

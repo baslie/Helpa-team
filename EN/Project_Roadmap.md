@@ -6,7 +6,7 @@
 
 ## 1. Project Essence
 
-Fintech company **Cyberbird** is entering India with a lending app **"Helpa"**. The brand needs to be tested on real Indian borrowers. The result is a report with a verdict: **launch / refine / abandon**.
+An international fintech company is entering India with a lending app **"Helpa"**. The brand needs to be tested on real Indian borrowers. The result is a report with a verdict: **launch / refine / abandon**.
 
 ### What exactly we are testing
 
