@@ -429,9 +429,9 @@ Respondents may be talkative, accent may complicate comprehension — a tool wit
 
 | Format | Compensation |
 | :--- | :--- |
-| **IDI** (40–60 min.) | ₹800 (~$9 / ~680 RUB) |
-| **Focus group** (60–90 min.) | ₹1,000 (~$11 / ~850 RUB) |
-| **Chatbot surveying** | ₹100–200 (~$1–2 / ~85–170 RUB) or unpaid |
+| **IDI** (40–60 min.) | ~$10 (~₹850 / ~770 RUB) |
+| **Focus group** (60–90 min.) | ~$15 (~₹1,300 / ~1,150 RUB) |
+| **Chatbot surveying** | ~$20 (~₹1,700 / ~1,535 RUB) |
 
 **Payment method: UPI (mandatory!)** — not gift cards. UPI is the primary payment infrastructure for this audience. For UPI payments — assistance from Dipanshu (has an Indian bank account).
 
